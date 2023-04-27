@@ -4,12 +4,12 @@
   "description": "Improve your Nuxt.js Google Lighthouse score by delaying hydration ⚡️",
   "author": "Harlan Wilton <harlan@harlanzw.com>",
   "license": "MIT",
-  "homepage": "https://github.com/harlan-zw/nuxt-delay-hydration",
+  "homepage": "https://github.com/yarikswt/nuxt-delay-hydration",
   "repository": {
     "type": "git",
-    "url": "https://github.com/harlan-zw/nuxt-delay-hydration"
+    "url": "https://github.com/yarikswt/nuxt-delay-hydration"
   },
-  "bugs": "https://github.com/harlan-zw/nuxt-delay-hydration/issues",
+  "bugs": "https://github.com/yarikswt/nuxt-delay-hydration/issues",
   "keywords": [
     "nuxt",
     "nuxt-module",
