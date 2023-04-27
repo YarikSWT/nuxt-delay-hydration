@@ -14,11 +14,11 @@
     "page speed",
     "performance"
   ],
-  "homepage": "https://github.com/harlan-zw/nuxt-delay-hydration",
-  "bugs": "https://github.com/harlan-zw/nuxt-delay-hydration/issues",
+  "homepage": "https://github.com/yarikswt/nuxt-delay-hydration",
+  "bugs": "https://github.com/yarikswt/nuxt-delay-hydration/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/harlan-zw/nuxt-delay-hydration"
+    "url": "https://github.com/yarikswt/nuxt-delay-hydration"
   },
   "author": "Harlan Wilton <harlan@harlanzw.com>",
   "license": "MIT",
@@ -41,5 +41,5 @@
     "upath": "^2.0.1",
     "vitest": "^0.22.1"
   },
-  "version": "0.4.7"
+  "version": "0.9.0"
 }
