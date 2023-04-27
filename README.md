@@ -10,6 +10,8 @@
 </a>
 </p>
 
+Bridge version
+
 <p align='center'>Delay Hydration for Nuxt.js! ⚡️<br>
 <sup><em>Improve your Nuxt.js v2 Google Lighthouse score by delaying hydration ⚡️</em></sup>
 </p>
